@@ -2,13 +2,13 @@
 <h3 align="center">An aspiring frontend developer 👨‍💼</h3>
 
 
-- 🌱 I’m currently learning **Angular**
+🌱 I’m currently learning **Angular**
 
-- 👩‍💻 In my spare time I solve problems on CodeWars and read technical articles.
+👩‍💻 In my spare time I solve problems on CodeWars and read technical articles.
 
-- 📫 How to reach me: **develop.evg@gmail.com**
+📫 How to reach me: **develop.evg@gmail.com**
 
-- ⚡ Fun fact: **I love reptiles**
+⚡ Fun fact: **I love reptiles**
 
 <h3 align="left">My social media</h3>
 <p align="left">
@@ -37,7 +37,4 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" /> </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalips0o&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalips0o&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalips0o&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalips0o&theme=ayu_mirage&utcOffset=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalips0o&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

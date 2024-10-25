@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring frontend developer 👨‍💼</h3>
 
 
-🌱 I’m currently learning **Angular**
+🌱 I’m currently learning **Next.js**
 
 👩‍💻 In my spare time I solve problems on CodeWars and read technical articles.
 

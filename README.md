@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yauheniya </h1>
-<h3 align="center">An aspiring frontend developer 👨‍💼</h3>
+<h3 align="center">Frontend developer</h3>
 
 
 📫 How to reach me: **develop.evg@gmail.com**
@@ -132,5 +132,8 @@
 </table>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalips0o&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalips0o&theme=vision_friendly_dark)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalips0o&theme=vision_friendly_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalips0o&theme=vision_friendly_dark" />
+</div>
+

@@ -6,7 +6,7 @@
 
 <h3 align="left">My social media</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yauheniya-kazhamiaka-aa4252229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgeniy-samuta-79489521a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yauheniya-kazhamiaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgeniy-samuta-79489521a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
